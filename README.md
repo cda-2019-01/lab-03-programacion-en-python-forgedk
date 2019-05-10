@@ -1,2 +1,3 @@
-# classroom-cda-03-prog-python
-Programación en Python para la lectura, extracción y transformación de datos
+# LAB: Programación en Python
+
+El archivo programacion-en-python.ipynb contiene la descripción del laboratorio.
